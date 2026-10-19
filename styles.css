@@ -422,14 +422,6 @@ h4 {
 .mail:hover {
     text-decoration-color: var(--volt);
 }
-.support-line {
-    margin-top: 12px;
-    color: var(--muted);
-    font-size: 16px;
-}
-.support-line:first-of-type {
-    margin-top: 22px;
-}
 .legal-box {
     margin-top: clamp(28px, 4vw, 44px);
     padding: 22px clamp(18px, 3vw, 28px) 10px;
