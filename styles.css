@@ -494,6 +494,11 @@ h4 {
     font-size: 14px;
     color: var(--muted);
 }
+.foot-links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px 22px;
+}
 a.fine {
     text-decoration: none;
 }
